@@ -2,7 +2,7 @@
 
 # EBAxBuilds
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=850&lines=Agriculture+%E2%80%A2+Systems+Thinking+%E2%80%A2+Technology+as+Leverage;Building+with+Python+%E2%80%A2+Exploring+AI+%E2%80%A2+Learning+Data;Turning+real-world+problems+into+practical+software;Learning+deeply.+Building+deliberately." alt="EBAxBuilds typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=850&lines=Agriculture+%E2%80%A2+Systems+Thinking+%E2%80%A2+Technology+as+Leverage;Building+with+Python+%E2%80%A2+Exploring+AI+%E2%80%A2+Learning+Data;Turning+real+world+problems+into+practical+software;Learning+deeply.+Building+deliberately." alt="EBAxBuilds typing animation" />
 
 <br>
 
