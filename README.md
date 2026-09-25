@@ -194,7 +194,7 @@ I'm intentionally starting small and building upward rather than filling this pr
 | Project                                | What it explores                | Stage      |
 | -------------------------------------- | ------------------------------- | ---------- |
 | 🌾 Farm Cost Calculator                | Python · Agricultural economics | 🔨 Planned |
-| 🌱 Farm Production Calculator          | Python · Production modelling   | 🔨 Planned |
+| 🌱 Farm Production Planner             | Python · Production modelling   | 🔨 Planned |
 | 📋 Farm Management CLI                 | Python · System design          | 🔨 Planned |
 | 📈 Farm Production Planning Engine     | Python · Agricultural planning  | 🔭 Future  |
 | 🤖 AI Agriculture Assistant            | AI · LLMs · Agriculture         | 🔭 Future  |
